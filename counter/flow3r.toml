@@ -1,0 +1,11 @@
+[app]
+name = "Counter"
+menu = "Badge"
+
+[entry]
+class = "Counter"
+
+[metadata]
+author = "n3bu"
+license = "MIT"
+url = "nope"
